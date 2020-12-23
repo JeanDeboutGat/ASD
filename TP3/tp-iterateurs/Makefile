@@ -1,5 +1,5 @@
 PROJECT=tp-iterateurs
-AUTHOR=DEROISSART Maxime
+AUTHOR=Jean Debout Gatari
 PYTHONPATH=./src
 export PYTHONPATH
 SPHINXBUILD=sphinx-build
